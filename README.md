@@ -4,8 +4,8 @@ Personal project collection.
 
 ## Projects
 
-- [Carry Regime Compass](Carry%20Regime%20Compass/) - Python/Streamlit cross-asset carry-to-volatility monitor with Yahoo Finance data, SQLite caching, regime inference, and dashboard visualization.
-- [Scribe](Scribe/) - Chrome extension that translates selected page text with a temporary visual overlay.
+- **Carry Regime Compass** - Python/Streamlit dashboard built for a Python for Finance course. It tracks whether cross-asset carry is being sufficiently rewarded for realized volatility across FX, rates, credit, equities, and commodities, then classifies the current macro regime as Risk-On, Mid-Cycle, Late-Cycle, or Deleveraging.
+- **Scribe** - Chrome extension that translates selected page text with a temporary visual overlay.
 
 ## Clone
 
